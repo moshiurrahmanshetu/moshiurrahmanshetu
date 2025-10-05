@@ -4,5 +4,5 @@
 - 🌍 I’m interested in Travelling, Playing, Gaming, Fishing, and at last – Coding 😎  
 - 🌱 I’m currently learning **PHP Laravel**  
 - 💞️ I’m looking to collaborate on **Web Development & UI/UX Design**  
-- 📫 How to reach me: [Email](mailto:your@email.com)  
+- 📫 How to reach me: [Email](mailto:shetumoshiurrahman@gmail.com)  
 - ⚡ Fun fact: I love solving design challenges while listening to lofi 🎧
