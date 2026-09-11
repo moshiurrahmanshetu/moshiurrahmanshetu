@@ -1,34 +1,34 @@
-                    👋 Hi, I'm Moshiur Rahman
-
-        FULL STACK DEVELOPER • GRAPHIC DESIGNER
-
-
- ┌───────────────────────────────────────────────────────────┐
- │                                                           │
- │  moshiur@github:~$ whoami                                 │
- │                                                           │
- │  Md Moshiur Rahman                                        │
- │  Full Stack Developer & Graphic Designer                 │
- │                                                           │
- │  moshiur@github:~$ stack                                  │
- │                                                           │
- │  PHP      ████████████████████                            │
- │  Laravel  ████████████████████                            │
- │  MySQL    ██████████████████░░                            │
- │  JS       █████████████████░░░                            │
- │  WP       ████████████████████                            │
- │                                                           │
- │  moshiur@github:~$ status                                 │
- │                                                           │
- │  ● Building • Learning • Creating                         │
- │                                                           │
- └───────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   Hi 👋 I'm Moshiur Rahman                           │
+│                                                      │
+│   Full Stack Developer & Graphic Designer            │
+│                                                      │
+│   [ Typing animation ]                               │
+│                                                      │
+│   PHP • Laravel • WordPress • JavaScript • MySQL    │
+│                                                      │
+│   ⚡ Building • 💻 Coding • 🎨 Designing             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 
 
-      PHP     Laravel     WordPress     MySQL     JavaScript
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-           ┌────────────────────────────┐
-           │       Md Moshiur Rahman     │
-           │   FULL STACK DEVELOPER      │
-           └────────────────────────────┘
+           🛠️ Tech Stack
+
+   PHP     Laravel     WordPress     MySQL
+   JS      HTML        CSS           Git
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+           📊 GitHub Statistics
+
+       repositories | commits | contributions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+           🚀 Featured Projects
+
+        Project 1 | Project 2 | Project 3
