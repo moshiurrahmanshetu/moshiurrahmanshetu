@@ -1,34 +1,5 @@
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   Hi 👋 I'm Moshiur Rahman                           │
-│                                                      │
-│   Full Stack Developer & Graphic Designer            │
-│                                                      │
-│   [ Typing animation ]                               │
-│                                                      │
-│   PHP • Laravel • WordPress • JavaScript • MySQL    │
-│                                                      │
-│   ⚡ Building • 💻 Coding • 🎨 Designing             │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+<div align="center">
 
+<img src="./moshiur-github-hero.gif" width="100%" alt="Moshiur Rahman - Full Stack Developer">
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-           🛠️ Tech Stack
-
-   PHP     Laravel     WordPress     MySQL
-   JS      HTML        CSS           Git
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-           📊 GitHub Statistics
-
-       repositories | commits | contributions
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-           🚀 Featured Projects
-
-        Project 1 | Project 2 | Project 3
+</div>
